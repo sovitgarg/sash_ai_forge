@@ -162,22 +162,22 @@
   </header>
 
   <main id="main">
-    <!-- §1 HERO -->
+    <!-- §1 HERO — full-bleed photo with left text overlay (ThriveHigh-style) -->
     <section id="hero" class="hero" data-hero aria-labelledby="hero-title">
+      <picture class="hero__bg">
+        <source type="image/webp" srcset="./assets/images/hero/founders-session.webp">
+        <img src="./assets/images/hero/founders-session.jpg" alt="" aria-hidden="true" loading="eager" fetchpriority="high" width="1376" height="768">
+      </picture>
+      <div class="hero__mask" aria-hidden="true"></div>
       <div class="container hero__inner">
-        <div class="hero__content reveal">
-          <span class="hero__eyebrow badge badge--warm">
-            <svg class="icon" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 4.09 12.97a1 1 0 0 0 .77 1.63h5.47v7.4a.5.5 0 0 0 .89.31L19.91 11.03a1 1 0 0 0-.77-1.63h-5.47V2.31a.5.5 0 0 0-.67-.3z"/></svg>
-            6 weeks. Idea to launch.
-          </span>
-          <h1 id="hero-title" class="hero__title">Your AI startup, <span class="hero__title-accent">live in 6 weeks</span>.</h1>
-          <p class="hero__subhead">
-            Come with an idea. We'll discuss it, build it with you, and put it in front of real users. Senior CTO‑led. Milestone‑based. Built for founders who don't have months to wait.
-          </p>
+        <div class="hero__content">
+          <h1 id="hero-title" class="hero__title">Your AI startup, <span class="hero__title-accent">live in 6 weeks.</span></h1>
+          <p class="hero__tagline">An idea you believe in, or months spent guessing where to start?</p>
+          <p class="hero__subhead">Sash.Ai Forge discusses your idea with you, architects the AI system, and builds the product together. Senior CTO‑led. Milestone‑based. Built for founders who don't have months to wait.</p>
 
           <div class="hero__ctas">
-            <a class="btn btn--primary btn--lg hero__cta-primary" href="https://wa.me/918951280606" data-wa="Hero">Message on WhatsApp</a>
-            <a class="btn btn--secondary btn--lg hero__cta-secondary" href="#journey">See how it works</a>
+            <a class="btn btn--primary hero__cta-primary" href="https://wa.me/918951280606" data-wa="Hero">Message on WhatsApp</a>
+            <a class="btn btn--secondary hero__cta-secondary" href="#journey">See how it works</a>
           </div>
         </div>
       </div>
