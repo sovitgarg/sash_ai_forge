@@ -1,0 +1,84 @@
+:root {
+  /* Surfaces (all light) */
+  --bg-primary:      #FFFFFF;
+  --bg-warm:         #FBF7F2;
+  --bg-soft:         #F5F3FF;
+  --bg-card:         #FFFFFF;
+
+  /* Text */
+  --text-primary:    #1A1A2E;
+  --text-secondary:  #4B5563;
+  --text-muted:      #6B7280;
+  --text-on-accent:  #FFFFFF;
+
+  /* Primary accent — violet */
+  --accent-primary:  #6D4AFF;
+  --accent-hover:    #5B3FE8;
+  --accent-deep:     #3A1F8B;
+  --accent-soft:     #EDE7FF;
+
+  /* Supporting accent — warm amber */
+  --accent-warm:     #F59E0B;
+  --accent-warm-soft:#FEF3C7;
+
+  /* Functional */
+  --success:         #10B981;
+  --border-subtle:   #ECE9F6;
+  --border-strong:   #D9D4EC;
+
+  /* Gradients */
+  --gradient-hero:   linear-gradient(135deg, #FBF7F2 0%, #F5F3FF 60%, #EDE7FF 100%);
+  --gradient-accent: linear-gradient(135deg, #6D4AFF 0%, #9B7BFF 100%);
+
+  /* Shape */
+  --radius-sm: 8px;
+  --radius: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  /* Shadows */
+  --shadow-card: 0 1px 2px rgba(26, 26, 46, 0.04), 0 6px 18px rgba(26, 26, 46, 0.06);
+  --shadow-card-hover: 0 4px 8px rgba(26, 26, 46, 0.06), 0 16px 32px rgba(26, 26, 46, 0.10);
+  --shadow-btn-primary: 0 4px 14px rgba(109, 74, 255, 0.25);
+  --shadow-btn-primary-hover: 0 8px 24px rgba(109, 74, 255, 0.35);
+
+  /* Spacing scale (8px base) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+  --space-24: 96px;
+
+  /* Layout */
+  --content-max: 1200px;
+  --content-narrow: 880px;
+  --gutter: 24px;
+  --gutter-lg: 48px;
+
+  /* Type scale — fluid with clamp */
+  --fs-eyebrow: 12px;
+  --fs-body: 17px;
+  --fs-body-sm: 15px;
+  --fs-h1: clamp(2.25rem, 5vw + 0.5rem, 3.75rem);
+  --fs-h2: clamp(1.75rem, 3vw + 0.5rem, 2.5rem);
+  --fs-h3: clamp(1.25rem, 1.5vw + 0.5rem, 1.5rem);
+
+  /* Motion */
+  --ease: cubic-bezier(0.4, 0.2, 0.2, 1);
+  --dur-fast: 140ms;
+  --dur: 240ms;
+}
+
+@media (max-width: 640px) {
+  :root {
+    --fs-body: 16px;
+    --gutter: 20px;
+  }
+}

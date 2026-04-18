@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sovitgarg1.github.io/sash_ai_forge/sitemap.xml
