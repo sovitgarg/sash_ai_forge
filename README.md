@@ -1,4 +1,4 @@
-# Sash.Ai Forge — Landing Site
+# Sash.Ai Forge. Landing Site
 
 Static landing page for Sash.Ai Forge. Built to generate leads from non-technical founders who want to launch AI startups fast.
 
@@ -7,11 +7,11 @@ Static landing page for Sash.Ai Forge. Built to generate leads from non-technica
 
 ## What this is
 
-A single-page static site (HTML + CSS + vanilla JS) positioned around one promise: *idea to launched AI startup — product, company, brand, investors — in weeks, not quarters.*
+A single-page static site (HTML + CSS + vanilla JS) positioned around one promise: *idea to launched AI startup. Product, company, brand, investors. In weeks, not quarters.*
 
 ## Design doc
 
-The complete spec — positioning, copy, visual system, SEO/AEO plan, build checklist — lives at:
+The complete spec. Positioning, copy, visual system, SEO/AEO plan, build checklist. Lives at:
 
 `docs/plans/2026-04-18-sash-ai-forge-design.md`
 

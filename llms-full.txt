@@ -1,4 +1,4 @@
-# Sash.Ai Forge — Full content for LLM crawlers
+# Sash.Ai Forge: full content for LLM crawlers
 
 > Sash.Ai Forge takes an AI startup idea from first conversation to a live, launched product in 6 weeks.
 
@@ -7,9 +7,9 @@
 Sash.Ai Forge is a startup launchpad for non-technical founders who want to move at startup speed. Founder brings the idea; we discuss it, build it with them, and launch in 6 weeks.
 
 The three pillars:
-1. Speed — 6 weeks from first conversation to a live product.
-2. Completeness — product + brand + investor intros, under one roof.
-3. Caliber — senior CTO-led, AI-native products shipped. Speed without compromise.
+1. Speed: 6 weeks from first conversation to a live product.
+2. Completeness: product + brand + investor intros, under one roof.
+3. Caliber: senior CTO-led, AI-native products shipped. Speed without compromise.
 
 We are not a Fractional CTO service. We are not an agency. We are a startup launchpad for non-technical founders.
 
@@ -17,21 +17,21 @@ We are not a Fractional CTO service. We are not an agency. We are a startup laun
 
 ### Launch your AI startup at startup speed.
 
-Come with an idea. We discuss it, build it together, and launch in 6 weeks — a live AI product, a brand, and intros to investors and customers. Senior CTO-led. AI-native by design. Built for founders who don't have months to wait.
+Come with an idea. We discuss it, build it together, and launch in 6 weeks: a live AI product, a brand, and intros to investors and customers. Senior CTO-led. AI-native by design. Built for founders who don't have months to wait.
 
 - Senior AI-native CTO included
 - Products shipped, not demos
-- Built for founder runway — milestone-based, no retainers
+- Built for founder runway (milestone-based, no retainers)
 
 ## The 5-step journey (idea → launch)
 
-You bring the idea. We discuss it, sharpen it, build it with you, and put it in front of real users and investors. One continuous engagement — no hand-offs, no vendor chains. You can plug us in mid-way if you already have an MVP.
+You bring the idea. We discuss it, sharpen it, build it with you, and put it in front of real users and investors. One continuous engagement. No hand-offs, no vendor chains. You can plug us in mid-way if you already have an MVP.
 
-1. **Discuss the idea** — We sit with you and pressure-test the idea. What's real, what's noise, who it's for, why now. You leave with a sharper thesis — not a pitch deck.
-2. **Architect & scope** — We map the AI architecture, lock the product scope, and agree the milestones. You see exactly what ships, in what order, at what price.
-3. **Build together** — We build the product — backend, AI pipelines, frontend — with you in the loop every step. Weekly demos. Real users test as soon as there's something usable.
-4. **Launch** — Production deploy. Brand live. First users onboarded. Investor intros begin. You walk out with a live AI product people can touch — not a demo.
-5. **Stay on as your tech partner** — Post-launch, we stay on as long as you need — shipping features, scaling infra, hiring your team, or gradually handing off. You're never on your own.
+1. **Discuss the idea**. We sit with you and pressure-test the idea. What's real, what's noise, who it's for, why now. You leave with a sharper thesis. Not a pitch deck.
+2. **Architect & scope**. We map the AI architecture, lock the product scope, and agree the milestones. You see exactly what ships, in what order, at what price.
+3. **Build together**. We build the product. Backend, AI pipelines, frontend. With you in the loop every step. Weekly demos. Real users test as soon as there's something usable.
+4. **Launch**. Production deploy. Brand live. First users onboarded. Investor intros begin. You walk out with a live AI product people can touch. Not a demo.
+5. **Stay on as your tech partner**. Post-launch, we stay on as long as you need. Shipping features, scaling infra, hiring your team, or gradually handing off. You're never on your own.
 
 One engagement end-to-end. 6 weeks from discussion to launch.
 
@@ -39,31 +39,31 @@ One engagement end-to-end. 6 weeks from discussion to launch.
 
 You get a launched product. Not a deliverable.
 
-Most agencies hand you a product and say good luck. We hand you a launched startup. Product, brand, and investor intros — delivered as one orchestrated launch, because running between three vendors is how founders lose six months they don't have.
+Most agencies hand you a product and say good luck. We hand you a launched startup. Product, brand, and investor intros. Delivered as one orchestrated launch, because running between three vendors is how founders lose six months they don't have.
 
-- **Product** — Production-grade AI app, live, usable, investor-ready.
-- **Brand** — Logo, identity, site, socials — designed to stand out from day one.
-- **Network** — Intros to investors, design partners, hiring channels.
+- **Product**. Production-grade AI app, live, usable, investor-ready.
+- **Brand**. Logo, identity, site, socials. Designed to stand out from day one.
+- **Network**. Intros to investors, design partners, hiring channels.
 
 ## How we show up (partnership, not vendor)
 
 We forge this with you. We don't just execute instructions.
 
-Most agencies wait for a brief and ship what's on it. We think like co-founders — pushing back on weak ideas, proposing better ones, owning the outcome with you. You'll know exactly what's happening, when, and what it costs, every step of the way.
+Most agencies wait for a brief and ship what's on it. We think like co-founders. Pushing back on weak ideas, proposing better ones, owning the outcome with you. You'll know exactly what's happening, when, and what it costs, every step of the way.
 
-- **Co-founder mindset** — We challenge assumptions, sharpen the idea, and flag the risks you can't see yet. Partnership, not pass-through.
-- **Predictable budget** — Fixed-scope milestones with fixed prices. No hourly meters. No scope creep invoices. You always know the next number before we ship.
-- **Skin in the game** — For the right founders we'll take part of our fee in equity. We win when you win — not when the retainer renews.
+- **Co-founder mindset**. We challenge assumptions, sharpen the idea, and flag the risks you can't see yet. Partnership, not pass-through.
+- **Predictable budget**. Fixed-scope milestones with fixed prices. No hourly meters. No scope creep invoices. You always know the next number before we ship.
+- **Skin in the game**. For the right founders we'll take part of our fee in equity. We win when you win. Not when the retainer renews.
 
 ## Built for founder runway
 
 Bootstrapped? We respect your runway.
 
-We've shipped products with first-time founders who were counting months of runway. Our engagements are structured for that reality — predictable, milestone-based, no surprise invoices — without cutting corners on the work.
+We've shipped products with first-time founders who were counting months of runway. Our engagements are structured for that reality. Predictable, milestone-based, no surprise invoices. Without cutting corners on the work.
 
-- **Milestone-based, not monthly** — You pay for outcomes shipped, not hours logged. Every milestone is a defined deliverable with a defined price. If we don't ship, you don't pay for the next one.
-- **Equity-flexible for the right founders** — For founders with strong conviction and tight cash, we'll discuss cash + equity blends on a case-by-case basis. Selective, not standard.
-- **You own 100% of the IP** — Your code, your company, your product. No vendor lock-in. No revenue share. No strings.
+- **Milestone-based, not monthly**. You pay for outcomes shipped, not hours logged. Every milestone is a defined deliverable with a defined price. If we don't ship, you don't pay for the next one.
+- **Equity-flexible for the right founders**. For founders with strong conviction and tight cash, we'll discuss cash + equity blends on a case-by-case basis. Selective, not standard.
+- **You own 100% of the IP**. Your code, your company, your product. No vendor lock-in. No revenue share. No strings.
 
 ## Why not X? (honest comparison)
 
@@ -73,14 +73,14 @@ We've shipped products with first-time founders who were counting months of runw
 | Your equity | 30–50% gone | 100% kept | 100% kept | **100% kept** |
 | Investor access | None | None | None | **Included** |
 | AI depth | Depends on who you find | Rarely AI-native | Limited to no-code | **AI-native by design** |
-| Risk if they leave | Catastrophic — they own half | Moderate — vendor lock-in | Low — but product is fragile | **Low — IP is yours** |
+| Risk if they leave | Catastrophic. They own half | Moderate. Vendor lock-in | Low. But product is fragile | **Low. IP is yours** |
 | Budget model | Equity opportunity cost | Monthly retainer | Tool subscriptions | **Milestone-based, predictable** |
 
-The real competition isn't each other — it's the calendar. Every month you spend deciding is a month a competitor ships.
+The real competition isn't each other. It's the calendar. Every month you spend deciding is a month a competitor ships.
 
 ## The 6-week cadence
 
-Not a promise — a cadence. One continuous sprint from first conversation to production, built with you, not for you.
+Not a promise. A cadence. One continuous sprint from first conversation to production, built with you, not for you.
 
 - **Discuss & sharpen**: Idea pressure-test · Target user + wedge · Sharper thesis
 - **Architect & scope**: AI architecture spec · Product scope locked · Milestones & prices agreed
@@ -92,32 +92,32 @@ Not a promise — a cadence. One continuous sprint from first conversation to pr
 
 Senior caliber. No junior hand-offs.
 
-- **Biddappa Muthappa** — CEO, Co-founder — "I'll be in your investor meetings."
-- **Shabareesh Raj** — Chief AI Officer, Co-founder — "I architect your AI system. I don't delegate it."
-- **Sameer Dhanranjani** — Strategic Advisor — "I've built this playbook before. I know where the traps are."
+- **Biddappa Muthappa**. CEO, Co-founder. "I'll be in your investor meetings."
+- **Shabareesh Raj**. Chief AI Officer, Co-founder. "I architect your AI system. I don't delegate it."
+- **Sameer Dhanranjani**. Strategic Advisor. "I've built this playbook before. I know where the traps are."
 
 ## Pricing
 
 Transparent ranges. No surprises.
 
-Every engagement is quoted after the free idea review. Milestone-based, fixed-price per deliverable — so your budget stays predictable from week one.
+Every engagement is quoted after the free idea review. Milestone-based, fixed-price per deliverable. So your budget stays predictable from week one.
 
-- **Idea → MVP launch** — Starts from — let's talk. Full 6-week launch: product + brand + first intros.
-- **Product → Scale** — Starts from — let's talk. Ongoing engineering + growth partnership for founders with an MVP.
-- **Plug-in CTO** — Starts from — let's talk. Senior AI leadership for founders who already have a team.
+- **Idea → MVP launch**. Starts from. Let's talk. Full 6-week launch: product + brand + first intros.
+- **Product → Scale**. Starts from. Let's talk. Ongoing engineering + growth partnership for founders with an MVP.
+- **Plug-in CTO**. Starts from. Let's talk. Senior AI leadership for founders who already have a team.
 
 Bootstrapped? We discuss cash + equity blends for the right founders. Ask us in the idea review.
 
 ## Additional services (on request, priced separately)
 
-The 6-week sprint is about your product and your launch. Founders often need more — the boring, necessary stuff that slows most startups down. We handle these too, at cost, so you never have to run between vendors. These are NOT part of the core 6-week build:
+The 6-week sprint is about your product and your launch. Founders often need more. The boring, necessary stuff that slows most startups down. We handle these too, at cost, so you never have to run between vendors. These are NOT part of the core 6-week build:
 
-- **Company registration** — Pvt Ltd / LLP in India, or Delaware C-Corp, Singapore, UAE. Filings, DIN, PAN, TAN — handled end-to-end with our legal partner.
-- **Trademark & IP** — Trademark filing for brand name and logo. Copyright advice. Founder-IP assignments.
-- **Compliance & ops** — GST, bank account, ROC filings, payroll setup, basic contracts (NDA, vendor, employment).
-- **Hiring & team** — Founding engineer / AI engineer / product hires. We source, screen, and often embed.
-- **Fundraising support** — Pitch deck polish, data room setup, intro warm-ups, term-sheet second opinions.
-- **Growth & GTM** — Landing-page experiments, founder-led sales playbooks, paid-channel setup, early content.
+- **Company registration**. Pvt Ltd / LLP in India, or Delaware C-Corp, Singapore, UAE. Filings, DIN, PAN, TAN. Handled end-to-end with our legal partner.
+- **Trademark & IP**. Trademark filing for brand name and logo. Copyright advice. Founder-IP assignments.
+- **Compliance & ops**. GST, bank account, ROC filings, payroll setup, basic contracts (NDA, vendor, employment).
+- **Hiring & team**. Founding engineer / AI engineer / product hires. We source, screen, and often embed.
+- **Fundraising support**. Pitch deck polish, data room setup, intro warm-ups, term-sheet second opinions.
+- **Growth & GTM**. Landing-page experiments, founder-led sales playbooks, paid-channel setup, early content.
 
 Most founders bundle one or two; some take them all. We tell you what you actually need in the idea review.
 
@@ -127,10 +127,10 @@ Most founders bundle one or two; some take them all. We tell you what you actual
 Yes, if the idea is strong. We've structured engagements with cash + equity blends for founders with real conviction and tight cash. The free idea review is where we figure out the right model for you.
 
 **Q: Do I need to know how to code?**
-No. The entire offer is built for non-technical founders. You bring domain insight and decision-making — we bring the technical build, architecture, and team.
+No. The entire offer is built for non-technical founders. You bring domain insight and decision-making. We bring the technical build, architecture, and team.
 
 **Q: How is this different from hiring an agency?**
-Agencies ship a deliverable and leave. We ship a launched startup — product, brand, and investor intros — and stay on as long as you need. And unlike an agency, we think like co-founders: we challenge the idea, propose better versions, and own the outcome with you.
+Agencies ship a deliverable and leave. We ship a launched startup. Product, brand, and investor intros. And stay on as long as you need. And unlike an agency, we think like co-founders: we challenge the idea, propose better versions, and own the outcome with you.
 
 **Q: What AI work do you actually do?**
 Production AI systems: LLM-based applications, agentic pipelines, retrieval systems, fine-tuning, voice AI, infrastructure, and cost-optimized deployment. AI-native, not AI-sprinkled.
@@ -139,16 +139,16 @@ Production AI systems: LLM-based applications, agentic pipelines, retrieval syst
 You. 100%. From day one. We don't hold IP, we don't white-label, and we don't lock you into retainers to maintain code we wrote.
 
 **Q: What if I already have an MVP?**
-Start at step 2 or 3 of the journey. We scale what you have, fix what's fragile, and support your investor and customer conversations. You don't restart — you plug us in.
+Start at step 2 or 3 of the journey. We scale what you have, fix what's fragile, and support your investor and customer conversations. You don't restart. You plug us in.
 
 **Q: How do investor intros actually work?**
-We open our network to founders we're engaged with. You pitch; we introduce. We're selective about who we put in front of our investor and customer contacts — our reputation is on the line.
+We open our network to founders we're engaged with. You pitch; we introduce. We're selective about who we put in front of our investor and customer contacts. Our reputation is on the line.
 
 **Q: What does a 6-week engagement actually cost?**
-Every engagement is quoted after the free idea review. We don't publish fixed prices because no two launches are identical — but we won't surprise you either. Each milestone is priced up front, so you always see the next number before we ship it.
+Every engagement is quoted after the free idea review. We don't publish fixed prices because no two launches are identical. But we won't surprise you either. Each milestone is priced up front, so you always see the next number before we ship it.
 
 **Q: What happens after 6 weeks?**
-Most founders continue with us as an ongoing tech partner while they hire their own team. Some hand off entirely. The engagement is month-to-month — no long contracts.
+Most founders continue with us as an ongoing tech partner while they hire their own team. Some hand off entirely. The engagement is month-to-month. No long contracts.
 
 **Q: How selective are you?**
 We take on founders we believe can build something real. The idea review is a two-way qualification: you're evaluating us, we're evaluating the fit. Not every founder gets an engagement offer.

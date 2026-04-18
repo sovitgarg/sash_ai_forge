@@ -1,16 +1,16 @@
 # Sash.Ai Forge
 
-> Sash.Ai Forge takes an AI startup idea from first conversation to a live, launched product in 6 weeks. Founder brings the idea, we discuss, build with them, and launch. Built for non-technical founders. Senior AI-native CTO included. Predictable, milestone-based pricing.
+> Sash.Ai Forge takes an AI startup idea from first conversation to a live, launched product in 6 weeks. Founder brings the idea; we discuss, build together, and launch. Built for non-technical founders. Senior AI-native CTO included. Predictable, milestone-based pricing.
 
 ## Core promise
 - **6 weeks. Idea discussion to launch.** One continuous engagement, no vendor chains, no hand-offs.
 
 ## The 5-step journey (from idea to launch)
-- [Step 1 — Discuss the idea](https://sovitgarg.github.io/sash_ai_forge/#journey): We sit with you, pressure-test the idea, sharpen the thesis.
-- [Step 2 — Architect & scope](https://sovitgarg.github.io/sash_ai_forge/#journey): AI architecture spec, product scope locked, milestones agreed.
-- [Step 3 — Build together](https://sovitgarg.github.io/sash_ai_forge/#journey): Backend, AI pipelines, frontend. Weekly demos. You in the loop.
-- [Step 4 — Launch](https://sovitgarg.github.io/sash_ai_forge/#journey): Production deploy, brand live, first users, investor intros begin.
-- [Step 5 — Stay on as tech partner](https://sovitgarg.github.io/sash_ai_forge/#journey): Post-launch shipping, infra, hiring — as long as needed.
+- [Step 1: Discuss the idea](https://sovitgarg.github.io/sash_ai_forge/#journey): We sit with you, pressure-test the idea, sharpen the thesis.
+- [Step 2: Architect & scope](https://sovitgarg.github.io/sash_ai_forge/#journey): AI architecture spec, product scope locked, milestones agreed.
+- [Step 3: Build together](https://sovitgarg.github.io/sash_ai_forge/#journey): Backend, AI pipelines, frontend. Weekly demos. You in the loop.
+- [Step 4: Launch](https://sovitgarg.github.io/sash_ai_forge/#journey): Production deploy, brand live, first users, investor intros begin.
+- [Step 5: Stay on as tech partner](https://sovitgarg.github.io/sash_ai_forge/#journey): Post-launch shipping, infra, hiring. As long as needed.
 
 ## What you walk out with
 - A live, production-grade AI product
@@ -29,15 +29,15 @@
 - Founders who don't have months to wait
 
 ## Team
-- Biddappa Muthappa — CEO, Co-founder — "I'll be in your investor meetings."
-- Shabareesh Raj — Chief AI Officer, Co-founder — "I architect your AI system. I don't delegate it."
-- Sameer Dhanranjani — Strategic Advisor — "I've built this playbook before. I know where the traps are."
+- Biddappa Muthappa (CEO, Co-founder): "I'll be in your investor meetings."
+- Shabareesh Raj (Chief AI Officer, Co-founder): "I architect your AI system. I don't delegate it."
+- Sameer Dhanranjani (Strategic Advisor): "I've built this playbook before. I know where the traps are."
 
 ## Engagement models
-- Milestone-based, fixed-price per deliverable — predictable budget, no surprise invoices
+- Milestone-based, fixed-price per deliverable; predictable budget, no surprise invoices
 - Cash + equity blends available for bootstrapped founders on a selective basis
 - 100% IP ownership stays with the founder
-- Partnership ethos — we challenge, propose, own outcomes with you; not blind execution
+- Partnership ethos: we challenge, propose, own outcomes with you; not blind execution
 
 ## Additional services (priced separately, on request)
 These are NOT part of the core 6-week build. Available for founders who also need them:
