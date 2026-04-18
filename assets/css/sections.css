@@ -244,3 +244,138 @@
   .site-header__burger { display: none; }
   .mobile-nav { display: none; }
 }
+
+/* =========================================================
+   Hero
+   ========================================================= */
+.hero {
+  position: relative;
+  background: var(--gradient-hero);
+  padding-top: var(--space-16);
+  padding-bottom: var(--space-24);
+  overflow: hidden;
+}
+
+.hero__inner {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  gap: var(--space-12);
+}
+
+.hero__content {
+  max-width: 640px;
+}
+
+.hero__title {
+  font-size: var(--fs-h1);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: -0.025em;
+  color: var(--text-primary);
+  margin: 0 0 var(--space-5);
+}
+
+.hero__subhead {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  margin: 0 0 var(--space-8);
+  max-width: 58ch;
+}
+
+.hero__ctas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-bottom: var(--space-10);
+}
+
+.hero__trust {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-4);
+  font-size: 0.9375rem;
+  color: var(--text-muted);
+}
+
+.hero__trust-item {
+  position: relative;
+}
+
+.hero__trust-item + .hero__trust-item::before {
+  content: "·";
+  display: inline-block;
+  margin-right: var(--space-3);
+  color: var(--border-strong);
+  font-weight: 700;
+  transform: translateX(calc(-1 * var(--space-2)));
+}
+
+.hero__visual {
+  width: 100%;
+  max-width: 620px;
+  margin: 0 auto;
+}
+
+.hero__svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.hero__svg-path {
+  stroke-dasharray: 1400;
+  stroke-dashoffset: 1400;
+}
+
+.hero__svg-nodes circle {
+  opacity: 0;
+  transform-origin: center;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hero__svg-path {
+    animation: heroDraw 1500ms var(--ease) 200ms forwards;
+  }
+  .hero__svg-nodes circle {
+    animation: heroNodeIn 400ms var(--ease) forwards;
+  }
+  .hero__svg-nodes circle:nth-child(1),
+  .hero__svg-nodes circle:nth-child(2) { animation-delay: 300ms; }
+  .hero__svg-nodes circle:nth-child(3),
+  .hero__svg-nodes circle:nth-child(4) { animation-delay: 700ms; }
+  .hero__svg-nodes circle:nth-child(5),
+  .hero__svg-nodes circle:nth-child(6) { animation-delay: 1100ms; }
+  .hero__svg-nodes circle:nth-child(7),
+  .hero__svg-nodes circle:nth-child(8) { animation-delay: 1500ms; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero__svg-path { stroke-dashoffset: 0; }
+  .hero__svg-nodes circle { opacity: 1; }
+}
+
+@keyframes heroDraw {
+  to { stroke-dashoffset: 0; }
+}
+
+@keyframes heroNodeIn {
+  from { opacity: 0; transform: scale(0.6); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+@media (min-width: 960px) {
+  .hero {
+    padding-top: var(--space-20);
+    padding-bottom: var(--space-24);
+  }
+  .hero__inner {
+    grid-template-columns: 1.1fr 0.9fr;
+    gap: var(--space-16);
+  }
+  .hero__visual { margin: 0; }
+}

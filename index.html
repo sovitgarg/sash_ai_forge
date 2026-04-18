@@ -59,7 +59,54 @@
   </header>
 
   <main id="main">
-    <!-- Sections are filled in across build steps. -->
+    <section id="hero" class="hero" data-hero aria-labelledby="hero-title">
+      <div class="container hero__inner">
+        <div class="hero__content reveal">
+          <h1 id="hero-title" class="hero__title">Launch your AI startup at startup speed.</h1>
+          <p class="hero__subhead">
+            Come with an idea. In weeks, walk out with a live AI product, a registered company, a brand, and intros to investors and customers. Senior CTO-led. AI-native by design. Built for founders who don't have years to wait.
+          </p>
+
+          <div class="hero__ctas">
+            <a class="btn btn--primary btn--lg hero__cta-primary" href="#" data-wa="Hero">Message on WhatsApp</a>
+            <a class="btn btn--secondary btn--lg hero__cta-secondary" href="#journey">See how it works</a>
+          </div>
+
+          <ul class="hero__trust" aria-label="Why founders trust us">
+            <li class="hero__trust-item">Senior AI-native CTO included</li>
+            <li class="hero__trust-item">Products shipped, not demos</li>
+            <li class="hero__trust-item">Built for founder runway — milestone-based, no retainers</li>
+          </ul>
+        </div>
+
+        <div class="hero__visual reveal" aria-hidden="true">
+          <svg class="hero__svg" viewBox="0 0 600 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true" focusable="false">
+            <defs>
+              <linearGradient id="hero-line" x1="0" y1="0" x2="1" y2="0">
+                <stop offset="0%" stop-color="#6D4AFF" stop-opacity="0.35" />
+                <stop offset="50%" stop-color="#6D4AFF" stop-opacity="0.85" />
+                <stop offset="100%" stop-color="#9B7BFF" stop-opacity="0.55" />
+              </linearGradient>
+              <radialGradient id="hero-node-glow" cx="50%" cy="50%" r="50%">
+                <stop offset="0%" stop-color="#EDE7FF" stop-opacity="1" />
+                <stop offset="100%" stop-color="#EDE7FF" stop-opacity="0" />
+              </radialGradient>
+            </defs>
+            <path class="hero__svg-path" d="M 40 90 C 130 20, 210 130, 300 70 S 470 20, 560 60" fill="none" stroke="url(#hero-line)" stroke-width="2" stroke-linecap="round" />
+            <g class="hero__svg-nodes">
+              <circle cx="40"  cy="90" r="22" fill="url(#hero-node-glow)" />
+              <circle cx="40"  cy="90" r="7"  fill="#FFFFFF" stroke="#6D4AFF" stroke-width="2" />
+              <circle cx="220" cy="60" r="22" fill="url(#hero-node-glow)" />
+              <circle cx="220" cy="60" r="7"  fill="#FFFFFF" stroke="#6D4AFF" stroke-width="2" />
+              <circle cx="400" cy="85" r="22" fill="url(#hero-node-glow)" />
+              <circle cx="400" cy="85" r="7"  fill="#FFFFFF" stroke="#6D4AFF" stroke-width="2" />
+              <circle cx="560" cy="60" r="24" fill="url(#hero-node-glow)" />
+              <circle cx="560" cy="60" r="8"  fill="#6D4AFF" stroke="#6D4AFF" stroke-width="2" />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </section>
   </main>
 
   <script src="./assets/js/config.js"></script>
