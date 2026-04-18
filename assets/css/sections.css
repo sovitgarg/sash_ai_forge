@@ -391,8 +391,18 @@
 }
 
 .journey-cta {
-  margin-top: var(--space-12);
+  margin-top: var(--space-8);
   text-align: center;
+}
+
+.journey-afterword {
+  margin-top: var(--space-10);
+  text-align: center;
+  color: var(--text-muted);
+  font-size: var(--fs-body-sm);
+  max-width: 60ch;
+  margin-inline: auto;
+  line-height: 1.6;
 }
 
 /* ============================================================

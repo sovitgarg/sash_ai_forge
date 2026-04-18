@@ -17,6 +17,8 @@
 - Step 3: Build together. Backend, AI pipelines, frontend. Weekly demos. Real users test early.
 - Step 4: Launch. Production deploy. Brand live. First users on.
 
+After launch (corollary, not part of the 6-week core): we stay on as your tech partner for as long as you need us, or step back the moment you're ready. Shipping features, scaling infra, hiring your team. You're never on your own.
+
 ## Who it's for
 - Non-technical founders (first-time or repeat) launching AI-native startups
 - Bootstrapped-to-seed stage, India and global
