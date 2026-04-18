@@ -379,3 +379,111 @@
   }
   .hero__visual { margin: 0; }
 }
+
+/* ============================================================
+ * §2 Journey
+ * ============================================================ */
+.journey-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: var(--space-6);
+}
+
+@media (min-width: 960px) {
+  .journey-list {
+    grid-template-columns: repeat(5, 1fr);
+    gap: var(--space-4);
+  }
+}
+
+.journey-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  padding-top: var(--space-8);
+}
+
+.journey-card__num {
+  position: absolute;
+  top: calc(var(--space-6) * -0.5);
+  left: var(--space-6);
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: var(--accent-warm);
+  color: var(--text-primary);
+  font-weight: 700;
+  font-size: 1.0625rem;
+  line-height: 1;
+  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.28);
+}
+
+.journey-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+  flex: 1;
+}
+
+.journey-card__title {
+  font-size: var(--fs-h3);
+  line-height: 1.25;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.journey-card__week {
+  align-self: flex-start;
+}
+
+.journey-card p {
+  color: var(--text-secondary);
+  margin: 0;
+  flex: 1;
+}
+
+.journey-card__cta {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  font-weight: 600;
+  color: var(--accent-primary);
+  text-decoration: none;
+  padding: var(--space-2) 0;
+  border-bottom: 1.5px solid transparent;
+  transition: color var(--dur-fast) var(--ease),
+              gap var(--dur-fast) var(--ease),
+              border-color var(--dur-fast) var(--ease);
+  align-self: flex-start;
+}
+
+.journey-card__cta:hover,
+.journey-card__cta:focus-visible {
+  color: var(--accent-hover);
+  gap: var(--space-3);
+  border-bottom-color: var(--accent-hover);
+}
+
+.journey-footnote {
+  margin-top: var(--space-10);
+  text-align: center;
+  color: var(--text-muted);
+  font-size: var(--fs-body);
+}
+
+@media (max-width: 719px) {
+  .journey-card {
+    padding-top: var(--space-10);
+  }
+  .journey-card__num {
+    top: calc(var(--space-4) * -1);
+    left: var(--space-5);
+  }
+}
