@@ -67,6 +67,14 @@ strong { color: var(--text-primary); font-weight: 600; }
   font-size: 1.0625rem;
 }
 
+/* Older-browser fallback — plain :focus. Newer browsers hit :focus-visible. */
+:focus {
+  outline: 2px solid var(--accent-primary);
+  outline-offset: 2px;
+}
+:focus:not(:focus-visible) {
+  outline: none;
+}
 :focus-visible {
   outline: 2px solid var(--accent-primary);
   outline-offset: 2px;
