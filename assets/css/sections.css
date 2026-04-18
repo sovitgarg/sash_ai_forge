@@ -35,7 +35,7 @@
 
 /* Check / cross markers for comparison */
 .mark-yes { color: var(--success); font-weight: 600; }
-.mark-no  { color: #9CA3AF; }
+.mark-no  { color: #6B7280; }
 
 /* Icon tile */
 .icon-tile {
@@ -1268,7 +1268,7 @@
 
 .site-footer__sep {
   margin: 0 6px;
-  color: var(--border-strong);
+  color: var(--text-muted);
 }
 
 .site-footer__social {
