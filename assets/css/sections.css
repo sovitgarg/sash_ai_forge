@@ -866,3 +866,69 @@
     z-index: 1;
   }
 }
+
+/* ============================================================
+ * §7 Team
+ * ============================================================ */
+.team-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--space-3);
+  text-align: left;
+}
+
+.team-card__avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: var(--accent-soft);
+  color: var(--accent-primary);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 1.75rem;
+  letter-spacing: 0.02em;
+}
+
+.team-card__name {
+  margin: var(--space-2) 0 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--text-primary);
+}
+
+.team-card__role {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: var(--fs-body-sm);
+}
+
+.team-card__quote {
+  margin: var(--space-2) 0 0;
+  font-style: italic;
+  color: var(--text-secondary);
+  line-height: 1.55;
+}
+
+.team-card__linkedin {
+  margin-top: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  color: var(--text-muted);
+  font-size: var(--fs-body-sm);
+  font-weight: 500;
+  padding-top: var(--space-3);
+  transition: color var(--dur-fast) var(--ease);
+}
+.team-card__linkedin:hover,
+.team-card__linkedin:focus-visible {
+  color: var(--accent-primary);
+}
+.team-card__linkedin .icon {
+  width: 18px;
+  height: 18px;
+}
