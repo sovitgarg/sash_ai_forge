@@ -47,14 +47,14 @@ strong { color: var(--text-primary); font-weight: 600; }
 }
 
 .section {
-  padding-block: var(--space-24);
+  padding-block: var(--space-20);
 }
 
 .section--warm { background: var(--bg-warm); }
 .section--soft { background: var(--bg-soft); }
 
 @media (max-width: 768px) {
-  .section { padding-block: var(--space-16); }
+  .section { padding-block: var(--space-12); }
 }
 
 .eyebrow {

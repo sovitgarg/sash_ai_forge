@@ -37,8 +37,8 @@
   --radius-xl: 24px;
 
   /* Shadows */
-  --shadow-card: 0 1px 2px rgba(26, 26, 46, 0.04), 0 6px 18px rgba(26, 26, 46, 0.06);
-  --shadow-card-hover: 0 4px 8px rgba(26, 26, 46, 0.06), 0 16px 32px rgba(26, 26, 46, 0.10);
+  --shadow-card: 0 1px 2px rgba(26, 26, 46, 0.02), 0 2px 8px rgba(26, 26, 46, 0.03);
+  --shadow-card-hover: 0 2px 4px rgba(26, 26, 46, 0.04), 0 8px 20px rgba(26, 26, 46, 0.06);
   --shadow-btn-primary: 0 4px 14px rgba(109, 74, 255, 0.25);
   --shadow-btn-primary-hover: 0 8px 24px rgba(109, 74, 255, 0.35);
 

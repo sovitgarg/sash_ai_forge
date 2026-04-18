@@ -72,20 +72,19 @@
   stroke-width: 2;
 }
 
-/* Card base */
+/* Card base — flat, restrained, ThriveHigh-style */
 .card {
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
-  border-radius: var(--radius-lg);
-  padding: var(--space-6);
-  box-shadow: var(--shadow-card);
-  transition: transform var(--dur) var(--ease), box-shadow var(--dur) var(--ease), border-color var(--dur) var(--ease);
+  border-radius: var(--radius);
+  padding: var(--space-5);
+  box-shadow: none;
+  transition: border-color var(--dur) var(--ease), background var(--dur) var(--ease);
 }
 
 .card:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-card-hover);
   border-color: var(--border-strong);
+  background: var(--bg-card);
 }
 
 /* Badges */
