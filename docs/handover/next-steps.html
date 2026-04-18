@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Sash.Ai Forge — Next Steps Handover</title>
+<style>
+  @page { size: A4; margin: 18mm 16mm; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, 'Inter', system-ui, sans-serif;
+    font-size: 10.5pt;
+    line-height: 1.45;
+    color: #1A1A2E;
+    margin: 0;
+  }
+  h1 {
+    font-size: 22pt;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 2pt;
+    color: #1A1A2E;
+  }
+  .sub {
+    font-size: 10pt;
+    color: #5B616E;
+    margin: 0 0 18pt;
+  }
+  .meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8pt 20pt;
+    font-size: 9pt;
+    color: #5B616E;
+    padding: 8pt 12pt;
+    background: #FBF7F2;
+    border-left: 3px solid #6D4AFF;
+    border-radius: 4pt;
+    margin-bottom: 18pt;
+  }
+  .meta strong { color: #1A1A2E; font-weight: 600; }
+  .meta a { color: #6D4AFF; text-decoration: none; font-weight: 500; }
+  h2 {
+    font-size: 12.5pt;
+    font-weight: 700;
+    margin: 14pt 0 6pt;
+    padding: 4pt 0 2pt;
+    color: #1A1A2E;
+    letter-spacing: -0.01em;
+    border-bottom: 1.5px solid #ECE9F6;
+  }
+  h2 .num {
+    display: inline-block;
+    width: 18pt; height: 18pt;
+    background: #6D4AFF;
+    color: #FFFFFF;
+    font-size: 9pt;
+    font-weight: 700;
+    line-height: 18pt;
+    text-align: center;
+    border-radius: 999px;
+    margin-right: 8pt;
+    vertical-align: 1.5pt;
+  }
+  ol, ul { margin: 4pt 0 8pt; padding-left: 18pt; }
+  li { margin-bottom: 3pt; }
+  li strong { color: #3A1F8B; }
+  code, kbd {
+    font-family: 'JetBrains Mono', Menlo, monospace;
+    font-size: 9pt;
+    background: #F5F3FF;
+    padding: 1pt 4pt;
+    border-radius: 3pt;
+    color: #3A1F8B;
+  }
+  pre {
+    font-family: 'JetBrains Mono', Menlo, monospace;
+    font-size: 8.5pt;
+    background: #FBF7F2;
+    padding: 6pt 10pt;
+    border-radius: 4pt;
+    border-left: 2px solid #6D4AFF;
+    margin: 4pt 0 8pt;
+    white-space: pre-wrap;
+    color: #1A1A2E;
+    line-height: 1.4;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9.5pt;
+    margin: 4pt 0 8pt;
+  }
+  th, td {
+    text-align: left;
+    padding: 4pt 6pt;
+    border-bottom: 1px solid #ECE9F6;
+    vertical-align: top;
+  }
+  th { background: #F5F3FF; color: #1A1A2E; font-weight: 600; font-size: 9pt; }
+  .callout {
+    background: #FEF3C7;
+    border-left: 3px solid #F59E0B;
+    padding: 6pt 10pt;
+    border-radius: 4pt;
+    font-size: 9.5pt;
+    margin: 6pt 0;
+  }
+  .callout strong { color: #7A4B05; }
+  .twocol { display: grid; grid-template-columns: 1fr 1fr; gap: 12pt; }
+  .pill {
+    display: inline-block;
+    font-size: 8pt;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 1pt 6pt;
+    border-radius: 999px;
+    margin-left: 4pt;
+    vertical-align: 1pt;
+  }
+  .pill--p1 { background: #FEE2E2; color: #991B1B; }
+  .pill--p2 { background: #FEF3C7; color: #7A4B05; }
+  .pill--p3 { background: #D1FAE5; color: #065F46; }
+  footer {
+    margin-top: 18pt;
+    padding-top: 8pt;
+    border-top: 1px solid #ECE9F6;
+    font-size: 8.5pt;
+    color: #5B616E;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<h1>Sash.Ai Forge — Handover &amp; Next Steps</h1>
+<p class="sub">Actionable punch list for DevOps, SEO/AEO, and content. Owner to prioritise.</p>
+
+<div class="meta">
+  <div><strong>Live URL (v1)</strong><br><a href="https://sovitgarg.github.io/sash_ai_forge/">sovitgarg.github.io/sash_ai_forge/</a></div>
+  <div><strong>Target domain</strong><br>forge.sashai.tech</div>
+  <div><strong>Repo</strong><br><a href="https://github.com/sovitgarg/sash_ai_forge">github.com/sovitgarg/sash_ai_forge</a></div>
+  <div><strong>Date</strong><br>2026-04-18</div>
+</div>
+
+<h2><span class="num">1</span>DevOps — host on <code>forge.sashai.tech</code> <span class="pill pill--p1">P1 · 30 min</span></h2>
+<ol>
+  <li><strong>Create <code>CNAME</code> file</strong> in repo root containing <code>forge.sashai.tech</code> (single line, no protocol). Commit &amp; push to <code>main</code>.</li>
+  <li><strong>DNS (at registrar of <code>sashai.tech</code>)</strong> — add one record:
+    <pre>Type: CNAME   Name: forge   Value: sovitgarg.github.io.   TTL: 300</pre>
+    If root-domain redirect is wanted later, use four A records pointing to <code>185.199.108.153, .109.153, .110.153, .111.153</code>.</li>
+  <li><strong>GitHub: Settings → Pages →</strong> enter <code>forge.sashai.tech</code> as Custom domain. Wait for DNS check (~5 min). Tick <strong>Enforce HTTPS</strong>.</li>
+  <li><strong>Rewrite canonical URLs</strong> from <code>sovitgarg.github.io/sash_ai_forge</code> → <code>forge.sashai.tech</code> in: <code>index.html</code> (canonical, OG, Twitter, 6× JSON-LD), <code>llms.txt</code>, <code>sitemap.xml</code>, <code>robots.txt</code>, <code>404.html</code>, <code>assets/js/config.js</code>. One grep: <code>grep -rl "sovitgarg.github.io/sash_ai_forge" .</code></li>
+  <li><strong>Submit to Google Search Console</strong> (new property: <code>forge.sashai.tech</code>) + Bing Webmaster Tools. Submit sitemap.</li>
+  <li><strong>Verify</strong>: <code>curl -I https://forge.sashai.tech/</code> returns 200 · valid TLS cert · no redirect chain · <code>Cache-Control</code> present.</li>
+</ol>
+
+<div class="callout"><strong>Rollback plan:</strong> if DNS goes wrong, remove the CNAME record and the repo's <code>CNAME</code> file — site falls back to <code>sovitgarg.github.io/sash_ai_forge/</code> automatically, zero downtime.</div>
+
+<h2><span class="num">2</span>SEO quick wins <span class="pill pill--p1">P1 · week 1</span></h2>
+<ul>
+  <li><strong>Search Console</strong>: verify domain, request indexing for <code>/</code>, submit <code>sitemap.xml</code>.</li>
+  <li><strong>Backlinks from day 1</strong>: add forge URL to sashai.tech nav, founder LinkedIn bios, Y Combinator Startup School directory, Product Hunt profile, ProductHunt "Ship", and 3 India startup directories (IVCA, Inc42, YourStory).</li>
+  <li><strong>Google Business Profile</strong> for "Sash.Ai Forge" at Bengaluru address — gets you into Maps + local pack for "AI startup builder Bengaluru".</li>
+  <li><strong>Replace OG image</strong> with a 1200×630 PNG (current is SVG; some platforms don't render SVG OG). Tools: Figma export, or Canva "Open Graph" template.</li>
+  <li><strong>Wire real LinkedIn / Instagram / X URLs</strong> (currently <code>#</code> with TODOs in footer + team cards). Add them to <code>Organization.sameAs[]</code> JSON-LD too.</li>
+  <li><strong>Add real team photos</strong> (swap initial monograms). Brief: warm neutral background, even lighting, 1:1 crop, 400×400 WebP + JPEG fallback.</li>
+  <li><strong>45-day plan blog post</strong> — repurpose §6 as a standalone blog post on sashai.tech with a CTA back to forge.sashai.tech.</li>
+</ul>
+
+<h2><span class="num">3</span>AEO (Answer Engine Optimisation) <span class="pill pill--p2">P2 · month 1</span></h2>
+<ul>
+  <li><strong>Claim presence in ChatGPT / Perplexity / Claude</strong> by publishing 3 pillar pages (on <code>sashai.tech/blog</code> or forge subpath):
+    <ul>
+      <li>"How to launch an AI startup without a technical co-founder"</li>
+      <li>"Idea → MVP in 45 days: the non-tech founder playbook"</li>
+      <li>"Tech co-founder vs fractional CTO vs launchpad — the honest trade-off"</li>
+    </ul>
+    Each: ≥1,500 words, 1 quote per 500 words, tables + lists, FAQ schema.
+  </li>
+  <li><strong>Refresh <code>llms.txt</code> + <code>llms-full.txt</code></strong> whenever pricing, team, or positioning changes. Set a quarterly reminder.</li>
+  <li><strong>Structured-data test</strong>: run current site through <a href="https://validator.schema.org">validator.schema.org</a> and Google Rich Results Test; fix any warnings.</li>
+  <li><strong>Wikidata entity</strong> for AIxplora Technologies Pvt Ltd — low effort, high AEO leverage (LLMs pull from Wikidata heavily).</li>
+  <li><strong>Authorship</strong>: add <code>author</code> schema with LinkedIn sameAs links to every blog post — amplifies Biddappa/Shabareesh E-E-A-T signal.</li>
+</ul>
+
+<h2><span class="num">4</span>Conversion &amp; measurement <span class="pill pill--p2">P2 · week 2</span></h2>
+<ul>
+  <li><strong>Enable Plausible analytics</strong> — uncomment the snippet in <code>index.html</code> (bottom, clearly marked) and set <code>window.SAF_CONFIG.analyticsProvider = "plausible"</code>. No cookie banner needed.</li>
+  <li><strong>WhatsApp lead tagging works already</strong> — each CTA pre-fills a source tag (<code>Hero</code>, <code>Sticky</code>, <code>Journey: Step 2</code>, etc.). Set up a simple tracker in the Sash ops sheet to count source → conversion.</li>
+  <li><strong>A/B test hero H1</strong> after 2 weeks of baseline traffic: variant "From idea to launched AI startup. In weeks." — speed-led vs completeness-led.</li>
+  <li><strong>Add Google Tag Manager (optional)</strong> only if attribution is needed for paid ads — otherwise Plausible is enough.</li>
+</ul>
+
+<h2><span class="num">5</span>Content still in placeholder state <span class="pill pill--p2">P2</span></h2>
+<table>
+  <thead><tr><th>Item</th><th>Current state</th><th>Action</th></tr></thead>
+  <tbody>
+    <tr><td>Team photos</td><td>Initial monograms (BM/SR/SD)</td><td>Replace <code>.team-card__avatar</code> divs with <code>&lt;img&gt;</code></td></tr>
+    <tr><td>LinkedIn URLs</td><td><code>href="#"</code> × 3</td><td>Replace TODO-commented anchors</td></tr>
+    <tr><td>Social URLs (footer)</td><td><code>href="#"</code> × 3</td><td>LinkedIn / IG / X</td></tr>
+    <tr><td>Pricing numbers</td><td>"Starts from — let's talk"</td><td>Owner call — numbers or keep opaque</td></tr>
+    <tr><td>Case studies §8</td><td>Commented-out</td><td>Uncomment when Grambvels + Kokken outcomes are shareable</td></tr>
+    <tr><td>OG image</td><td>SVG placeholder</td><td>Export 1200×630 PNG, replace <code>og-image.svg</code> references</td></tr>
+  </tbody>
+</table>
+
+<h2><span class="num">6</span>Ongoing hygiene <span class="pill pill--p3">P3</span></h2>
+<ul>
+  <li>Monthly: re-run Lighthouse (target ≥ 95/95/95/100); re-run <code>pa11y</code> or axe on any copy/structure change.</li>
+  <li>Quarterly: refresh <code>llms-full.txt</code>, FAQ schema, and sitemap <code>lastmod</code>.</li>
+  <li>Any content change: one commit per change, PR optional but encouraged once team grows.</li>
+  <li>Brand: if logo wordmark is ever replaced with a graphical mark, update <code>favicon.svg</code>, <code>og-image.svg</code>, and <code>Organization.logo</code> JSON-LD in one commit.</li>
+</ul>
+
+<h2><span class="num">7</span>Phase-2 backlog (out of scope for v1) <span class="pill pill--p3">P3</span></h2>
+<ul>
+  <li>Blog at <code>/blog</code> — 3 pillar + 6 answer posts (see §2 above).</li>
+  <li>Lead magnet PDF: "The Non-Tech Founder's 8-Week MVP Playbook" → form-gated via ConvertKit or Mailchimp.</li>
+  <li>Testimonials carousel — once 3+ founders agree on record.</li>
+  <li>60-second founder hero video (Biddappa or Shabareesh, direct to camera).</li>
+  <li>Upgrade mailto form to Formspree / Getform — keeps UX identical but captures leads even if the user's mail client is misconfigured.</li>
+</ul>
+
+<footer>
+  Handover for Sash.Ai Forge v1 · AIxplora Technologies Pvt Ltd · Bengaluru · info@sashai.tech
+</footer>
+
+</body>
+</html>
