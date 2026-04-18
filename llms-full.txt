@@ -19,7 +19,7 @@ We are not a Fractional CTO service. We are not an agency. We are a startup laun
 
 Come with an idea. We discuss it, build it together, and put it in front of real users. Senior CTO-led. Milestone-based. Built for founders who don't have months to wait.
 
-## The 5-step journey (idea to launch)
+## The 4-step journey (idea to launch)
 
 You bring the idea. We discuss it, sharpen it, build it with you, and put it in front of real users. One continuous engagement. No hand-offs, no vendor chains. You can plug us in mid-way if you already have an MVP.
 
@@ -27,7 +27,6 @@ You bring the idea. We discuss it, sharpen it, build it with you, and put it in 
 2. Architect and scope. We map the AI architecture, lock the product scope, and agree the milestones. You see exactly what ships, in what order, at what price.
 3. Build together. We build the product: backend, AI pipelines, frontend, with you in the loop every step. Weekly demos. Real users test as soon as there's something usable.
 4. Launch. Production deploy. Brand live. First users onboarded. You walk out with a live AI product people can touch, not a demo.
-5. Stay on as your tech partner. Post-launch, we stay on as long as you need: shipping features, scaling infra, hiring your team, or gradually handing off. You're never on your own.
 
 One engagement end-to-end. 6 weeks from discussion to launch.
 

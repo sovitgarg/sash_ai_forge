@@ -347,7 +347,7 @@
   .journey-list { grid-template-columns: repeat(2, 1fr); }
 }
 @media (min-width: 1040px) {
-  .journey-list { grid-template-columns: repeat(5, 1fr); gap: var(--space-4); }
+  .journey-list { grid-template-columns: repeat(4, 1fr); gap: var(--space-5); }
 }
 
 .journey-card {

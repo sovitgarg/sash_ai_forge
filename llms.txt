@@ -11,12 +11,11 @@
 - Senior AI-native CTO working alongside the founder
 - Predictable milestone-based pricing
 
-## The 5-step journey (from idea to launch)
+## The 4-step journey (from idea to launch)
 - Step 1: Discuss the idea. We pressure-test it with you. You leave with a sharper thesis, not a pitch deck.
 - Step 2: Architect and scope. AI architecture. Product scope locked. Every milestone priced up front.
 - Step 3: Build together. Backend, AI pipelines, frontend. Weekly demos. Real users test early.
 - Step 4: Launch. Production deploy. Brand live. First users on.
-- Step 5: Stay on as your tech partner. Post-launch, features, infra, hiring. Hand off on your timeline.
 
 ## Who it's for
 - Non-technical founders (first-time or repeat) launching AI-native startups
