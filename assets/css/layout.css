@@ -58,7 +58,7 @@ strong { color: var(--text-primary); font-weight: 600; }
 }
 
 .section-header {
-  max-width: 760px;
+  max-width: 960px;
   margin-bottom: var(--space-12);
 }
 
