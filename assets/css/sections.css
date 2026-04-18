@@ -1052,3 +1052,130 @@
     transition: none;
   }
 }
+
+/* ============================================================
+ * §11 Final CTA
+ * ============================================================ */
+.final-cta {
+  max-width: 680px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.final-cta__header {
+  margin-bottom: var(--space-8);
+}
+
+.final-cta__header h2 {
+  margin-bottom: var(--space-4);
+}
+
+.final-cta__header .lead {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.final-cta__channels {
+  display: grid;
+  gap: var(--space-4);
+  margin-bottom: var(--space-8);
+}
+
+@media (min-width: 720px) {
+  .final-cta__channels {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.final-cta__channels .btn {
+  width: 100%;
+}
+
+.final-cta__divider {
+  position: relative;
+  text-align: center;
+  margin: var(--space-6) 0 var(--space-8);
+  color: var(--text-muted);
+  font-size: var(--fs-body-sm);
+}
+
+.final-cta__divider::before,
+.final-cta__divider::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: calc(50% - 180px);
+  height: 1px;
+  background: var(--border-subtle);
+}
+
+.final-cta__divider::before { left: 0; }
+.final-cta__divider::after { right: 0; }
+
+.final-cta__divider span {
+  display: inline-block;
+  padding: 0 var(--space-4);
+  background: transparent;
+  max-width: 340px;
+}
+
+@media (max-width: 560px) {
+  .final-cta__divider::before,
+  .final-cta__divider::after {
+    display: none;
+  }
+}
+
+.final-cta__form {
+  display: grid;
+  gap: var(--space-4);
+  text-align: left;
+  background: var(--bg-card);
+  padding: var(--space-6);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-card);
+}
+
+.form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.form-field label {
+  font-weight: 600;
+  font-size: var(--fs-body-sm);
+  color: var(--text-primary);
+}
+
+.form-field input,
+.form-field textarea {
+  font: inherit;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  border: 1.5px solid var(--border-strong);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  transition: border-color var(--dur-fast) var(--ease),
+              box-shadow var(--dur-fast) var(--ease);
+}
+
+.form-field textarea {
+  resize: vertical;
+  min-height: 96px;
+}
+
+.form-field input:focus,
+.form-field textarea:focus {
+  outline: none;
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px rgba(109, 74, 255, 0.18);
+}
+
+.final-cta__microcopy {
+  margin: 0;
+  text-align: center;
+  font-size: var(--fs-body-sm);
+  color: var(--text-muted);
+}
