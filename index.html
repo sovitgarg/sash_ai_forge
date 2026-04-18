@@ -1008,5 +1008,15 @@
 
   <script src="./assets/js/config.js"></script>
   <script src="./assets/js/main.js" defer></script>
+
+  <!--
+    Analytics — disabled for v1 per design doc §11 decision 6.
+    To enable Plausible (recommended, no cookie banner):
+      <script defer data-domain="sovitgarg1.github.io/sash_ai_forge" src="https://plausible.io/js/script.js"></script>
+    To enable GA4:
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXX"></script>
+      <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-XXXXXXX');</script>
+    Also flip window.SAF_CONFIG.analyticsProvider + analyticsId in assets/js/config.js.
+  -->
 </body>
 </html>
