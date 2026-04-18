@@ -69,6 +69,24 @@
     io.observe(hero);
   }
 
+  // --- Header scroll shadow --------------------------------------------------
+  function initHeaderScroll() {
+    const header = document.querySelector('.site-header');
+    if (!header) return;
+    let ticking = false;
+    const update = () => {
+      header.dataset.scrolled = window.scrollY > 4 ? 'true' : 'false';
+      ticking = false;
+    };
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        window.requestAnimationFrame(update);
+        ticking = true;
+      }
+    }, { passive: true });
+    update();
+  }
+
   // --- Reveal-on-scroll ------------------------------------------------------
   function initReveal() {
     const targets = document.querySelectorAll('.reveal');
@@ -119,6 +137,7 @@
     initMobileNav();
     initSmoothScroll();
     initStickyCta();
+    initHeaderScroll();
     initReveal();
     initYear();
     applyConfigLinks();
