@@ -1,14 +1,14 @@
 # Sash.Ai Forge — Full content for LLM crawlers
 
-> Sash.Ai Forge turns an idea into a launched AI startup — product, company, brand, and investor intros — in weeks, not quarters.
+> Sash.Ai Forge takes an AI startup idea from first conversation to a live, launched product in 6 weeks.
 
 ## Positioning
 
-Sash.Ai Forge is a startup launchpad for non-technical founders who want to move at startup speed.
+Sash.Ai Forge is a startup launchpad for non-technical founders who want to move at startup speed. Founder brings the idea; we discuss it, build it with them, and launch in 6 weeks.
 
 The three pillars:
-1. Speed — weeks, not quarters.
-2. Completeness — product + company + brand + investors, under one roof.
+1. Speed — 6 weeks from first conversation to a live product.
+2. Completeness — product + brand + investor intros, under one roof.
 3. Caliber — senior CTO-led, AI-native products shipped. Speed without compromise.
 
 We are not a Fractional CTO service. We are not an agency. We are a startup launchpad for non-technical founders.
@@ -17,32 +17,31 @@ We are not a Fractional CTO service. We are not an agency. We are a startup laun
 
 ### Launch your AI startup at startup speed.
 
-Come with an idea. In weeks, walk out with a live AI product, a registered company, a brand, and intros to investors and customers. Senior CTO-led. AI-native by design. Built for founders who don't have years to wait.
+Come with an idea. We discuss it, build it together, and launch in 6 weeks — a live AI product, a brand, and intros to investors and customers. Senior CTO-led. AI-native by design. Built for founders who don't have months to wait.
 
 - Senior AI-native CTO included
 - Products shipped, not demos
 - Built for founder runway — milestone-based, no retainers
 
-## The 5-step journey
+## The 5-step journey (idea → launch)
 
-Most founders come to us at step 1. Some come at step 3. Some already have a product and need help with step 5. You can start anywhere — each step stands alone.
+You bring the idea. We discuss it, sharpen it, build it with you, and put it in front of real users and investors. One continuous engagement — no hand-offs, no vendor chains. You can plug us in mid-way if you already have an MVP.
 
-1. **Idea → validated concept (Week 1)** — We pressure-test your idea, map the AI architecture, and write the spec. You leave the week with clarity, not a pitch deck.
-2. **AI product built & live (Weeks 2–6)** — We build and ship a production-grade AI product. Real users can use it. Investors can touch it. Not a demo.
-3. **Company registered, brand live (Weeks 2–4, in parallel)** — Company registration, trademark, domain, logo, site, socials. Your startup becomes a real entity while the product ships.
-4. **Investor & customer intros (Week 6 onward)** — We put you in rooms with investors and design partners from our network. You bring the pitch — we bring the table.
-5. **Ongoing tech + growth partner (As long as you need)** — Post-launch, we stay on as your tech team — feature shipping, infra, hiring, or gradually handing off to your in-house team.
+1. **Discuss the idea** — We sit with you and pressure-test the idea. What's real, what's noise, who it's for, why now. You leave with a sharper thesis — not a pitch deck.
+2. **Architect & scope** — We map the AI architecture, lock the product scope, and agree the milestones. You see exactly what ships, in what order, at what price.
+3. **Build together** — We build the product — backend, AI pipelines, frontend — with you in the loop every step. Weekly demos. Real users test as soon as there's something usable.
+4. **Launch** — Production deploy. Brand live. First users onboarded. Investor intros begin. You walk out with a live AI product people can touch — not a demo.
+5. **Stay on as your tech partner** — Post-launch, we stay on as long as you need — shipping features, scaling infra, hiring your team, or gradually handing off. You're never on your own.
 
-Modular on purpose. Start from idea, or plug us in mid-journey.
+One engagement end-to-end. 6 weeks from discussion to launch.
 
 ## The complete package
 
-You get a launched startup. Not a deliverable.
+You get a launched product. Not a deliverable.
 
-Most agencies hand you a product and say good luck. We hand you a company. Product, legal, brand, hiring pipeline, investor intros — delivered as one orchestrated launch, because running between five vendors is how founders lose six months they don't have.
+Most agencies hand you a product and say good luck. We hand you a launched startup. Product, brand, and investor intros — delivered as one orchestrated launch, because running between three vendors is how founders lose six months they don't have.
 
 - **Product** — Production-grade AI app, live, usable, investor-ready.
-- **Company** — Registration, trademark, compliance, handled end-to-end.
 - **Brand** — Logo, identity, site, socials — designed to stand out from day one.
 - **Network** — Intros to investors, design partners, hiring channels.
 
@@ -72,7 +71,6 @@ We've shipped products with first-time founders who were counting months of runw
 |---|---|---|---|---|
 | Time to launch | 6–12 mo to find, 6–12 to build | 6–12 mo, often slips | 1–3 mo to no-code ceiling | **6 weeks to live product** |
 | Your equity | 30–50% gone | 100% kept | 100% kept | **100% kept** |
-| Company setup | You handle it | You handle it | You handle it | **Included** |
 | Investor access | None | None | None | **Included** |
 | AI depth | Depends on who you find | Rarely AI-native | Limited to no-code | **AI-native by design** |
 | Risk if they leave | Catastrophic — they own half | Moderate — vendor lock-in | Low — but product is fragile | **Low — IP is yours** |
@@ -80,13 +78,15 @@ We've shipped products with first-time founders who were counting months of runw
 
 The real competition isn't each other — it's the calendar. Every month you spend deciding is a month a competitor ships.
 
-## The 45-day plan
+## The 6-week cadence
 
-- **Week 1 — Foundation**: Idea pressure-test · AI architecture spec · Product scope locked · Company registration filed
-- **Weeks 2–3 — Core build**: Backend, AI pipelines, frontend · Brand + logo delivered · Domain + site live
-- **Weeks 4–5 — Integration**: Full product assembly · AI model fine-tuning · QA · Trademark filed
-- **Week 6 — Launch**: Production deploy · Soft launch to first users · Investor deck + intros begin
-- **Ongoing**: Weekly shipping cadence · Growth + hiring support · Your CTO stays embedded
+Not a promise — a cadence. One continuous sprint from first conversation to production, built with you, not for you.
+
+- **Discuss & sharpen**: Idea pressure-test · Target user + wedge · Sharper thesis
+- **Architect & scope**: AI architecture spec · Product scope locked · Milestones & prices agreed
+- **Build with you**: Backend, AI pipelines, frontend · Weekly demos · Brand + site delivered
+- **Polish & integrate**: Full product assembly · Model fine-tuning · QA & hardening
+- **Launch**: Production deploy · Soft launch to first users · Investor & customer intros begin
 
 ## Team
 
@@ -102,11 +102,24 @@ Transparent ranges. No surprises.
 
 Every engagement is quoted after the free idea review. Milestone-based, fixed-price per deliverable — so your budget stays predictable from week one.
 
-- **Idea → MVP launch** — Starts from — let's talk. Full 45-day launch: product + company + brand + first intros.
+- **Idea → MVP launch** — Starts from — let's talk. Full 6-week launch: product + brand + first intros.
 - **Product → Scale** — Starts from — let's talk. Ongoing engineering + growth partnership for founders with an MVP.
 - **Plug-in CTO** — Starts from — let's talk. Senior AI leadership for founders who already have a team.
 
 Bootstrapped? We discuss cash + equity blends for the right founders. Ask us in the idea review.
+
+## Additional services (on request, priced separately)
+
+The 6-week sprint is about your product and your launch. Founders often need more — the boring, necessary stuff that slows most startups down. We handle these too, at cost, so you never have to run between vendors. These are NOT part of the core 6-week build:
+
+- **Company registration** — Pvt Ltd / LLP in India, or Delaware C-Corp, Singapore, UAE. Filings, DIN, PAN, TAN — handled end-to-end with our legal partner.
+- **Trademark & IP** — Trademark filing for brand name and logo. Copyright advice. Founder-IP assignments.
+- **Compliance & ops** — GST, bank account, ROC filings, payroll setup, basic contracts (NDA, vendor, employment).
+- **Hiring & team** — Founding engineer / AI engineer / product hires. We source, screen, and often embed.
+- **Fundraising support** — Pitch deck polish, data room setup, intro warm-ups, term-sheet second opinions.
+- **Growth & GTM** — Landing-page experiments, founder-led sales playbooks, paid-channel setup, early content.
+
+Most founders bundle one or two; some take them all. We tell you what you actually need in the idea review.
 
 ## FAQ
 
@@ -117,7 +130,7 @@ Yes, if the idea is strong. We've structured engagements with cash + equity blen
 No. The entire offer is built for non-technical founders. You bring domain insight and decision-making — we bring the technical build, architecture, and team.
 
 **Q: How is this different from hiring an agency?**
-Agencies ship a deliverable and leave. We ship a company — product, legal, brand, and investor intros — and stay on as long as you need. And unlike an agency, we think like co-founders: we challenge the idea, propose better versions, and own the outcome with you.
+Agencies ship a deliverable and leave. We ship a launched startup — product, brand, and investor intros — and stay on as long as you need. And unlike an agency, we think like co-founders: we challenge the idea, propose better versions, and own the outcome with you.
 
 **Q: What AI work do you actually do?**
 Production AI systems: LLM-based applications, agentic pipelines, retrieval systems, fine-tuning, voice AI, infrastructure, and cost-optimized deployment. AI-native, not AI-sprinkled.
@@ -131,10 +144,10 @@ Start at step 2 or 3 of the journey. We scale what you have, fix what's fragile,
 **Q: How do investor intros actually work?**
 We open our network to founders we're engaged with. You pitch; we introduce. We're selective about who we put in front of our investor and customer contacts — our reputation is on the line.
 
-**Q: What does a 45-day engagement actually cost?**
+**Q: What does a 6-week engagement actually cost?**
 Every engagement is quoted after the free idea review. We don't publish fixed prices because no two launches are identical — but we won't surprise you either. Each milestone is priced up front, so you always see the next number before we ship it.
 
-**Q: What happens after 45 days?**
+**Q: What happens after 6 weeks?**
 Most founders continue with us as an ongoing tech partner while they hire their own team. Some hand off entirely. The engagement is month-to-month — no long contracts.
 
 **Q: How selective are you?**
@@ -144,7 +157,6 @@ We take on founders we believe can build something real. The idea review is a tw
 
 - WhatsApp: https://wa.me/918951280606
 - Email: info@sashai.tech
-- Phone: +91-89512-80606
 
 ## Parent company
 

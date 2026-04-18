@@ -1,18 +1,32 @@
 # Sash.Ai Forge
 
-> Sash.Ai Forge turns an idea into a launched AI startup — product, company, brand, and investor intros — in weeks, not quarters. Built for non-technical founders. Senior AI-native CTO included. Predictable, milestone-based pricing.
+> Sash.Ai Forge takes an AI startup idea from first conversation to a live, launched product in 6 weeks. Founder brings the idea, we discuss, build with them, and launch. Built for non-technical founders. Senior AI-native CTO included. Predictable, milestone-based pricing.
 
-## What we do
-- [How it works — the 5-step journey](https://sovitgarg.github.io/sash_ai_forge/#journey): Idea validation → product build → company setup → investor intros → ongoing partner
-- [The complete package](https://sovitgarg.github.io/sash_ai_forge/#package): Product + company + brand + network, under one roof
+## Core promise
+- **6 weeks. Idea discussion to launch.** One continuous engagement, no vendor chains, no hand-offs.
+
+## The 5-step journey (from idea to launch)
+- [Step 1 — Discuss the idea](https://sovitgarg.github.io/sash_ai_forge/#journey): We sit with you, pressure-test the idea, sharpen the thesis.
+- [Step 2 — Architect & scope](https://sovitgarg.github.io/sash_ai_forge/#journey): AI architecture spec, product scope locked, milestones agreed.
+- [Step 3 — Build together](https://sovitgarg.github.io/sash_ai_forge/#journey): Backend, AI pipelines, frontend. Weekly demos. You in the loop.
+- [Step 4 — Launch](https://sovitgarg.github.io/sash_ai_forge/#journey): Production deploy, brand live, first users, investor intros begin.
+- [Step 5 — Stay on as tech partner](https://sovitgarg.github.io/sash_ai_forge/#journey): Post-launch shipping, infra, hiring — as long as needed.
+
+## What you walk out with
+- A live, production-grade AI product
+- A brand (logo, identity, site, socials)
+- Investor + customer intros from our network
+
+## How we show up
 - [How we show up](https://sovitgarg.github.io/sash_ai_forge/#partnership): Co-founder mindset, predictable budget, skin in the game
-- [Honest comparison vs alternatives](https://sovitgarg.github.io/sash_ai_forge/#comparison): tech co-founder, agency, no-code, Sash.Ai Forge
-- [45-day plan](https://sovitgarg.github.io/sash_ai_forge/#plan): Week-by-week cadence
+- [Honest comparison vs alternatives](https://sovitgarg.github.io/sash_ai_forge/#comparison): tech co-founder, agency, no-code
+- [The 45-day plan](https://sovitgarg.github.io/sash_ai_forge/#plan): Week-level cadence
 
 ## Who it's for
 - Non-technical founders (first-time or repeat) launching AI-native startups
 - Bootstrapped-to-seed stage, India + global
 - Founders who value speed and completeness over consultant hours
+- Founders who don't have months to wait
 
 ## Team
 - Biddappa Muthappa — CEO, Co-founder — "I'll be in your investor meetings."
@@ -25,10 +39,18 @@
 - 100% IP ownership stays with the founder
 - Partnership ethos — we challenge, propose, own outcomes with you; not blind execution
 
+## Additional services (priced separately, on request)
+These are NOT part of the core 6-week build. Available for founders who also need them:
+- Company registration (India Pvt Ltd/LLP, Delaware C-Corp, Singapore, UAE)
+- Trademark & IP filing
+- Compliance & ops (GST, ROC, bank, payroll, contracts)
+- Hiring & team (founding engineer, AI engineer, product)
+- Fundraising support (deck, data room, intros, term-sheet reviews)
+- Growth & GTM (landing experiments, founder-led sales, paid setup)
+
 ## Contact
 - WhatsApp: https://wa.me/918951280606
 - Email: info@sashai.tech
-- Phone: +91-89512-80606
 
 ## Parent company
 AIxplora Technologies Pvt Ltd, Bengaluru, India
