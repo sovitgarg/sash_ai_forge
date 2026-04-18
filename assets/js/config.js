@@ -18,5 +18,5 @@ window.SAF_CONFIG = {
   analyticsId: "",
 
   // Canonical site URL (v1: GitHub Pages subpath)
-  siteUrl: "https://sovitgarg1.github.io/sash_ai_forge"
+  siteUrl: "https://sovitgarg.github.io/sash_ai_forge"
 };

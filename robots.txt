@@ -16,4 +16,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://sovitgarg1.github.io/sash_ai_forge/sitemap.xml
+Sitemap: https://sovitgarg.github.io/sash_ai_forge/sitemap.xml

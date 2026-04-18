@@ -3,11 +3,11 @@
 > Sash.Ai Forge turns an idea into a launched AI startup — product, company, brand, and investor intros — in weeks, not quarters. Built for non-technical founders. Senior AI-native CTO included. Predictable, milestone-based pricing.
 
 ## What we do
-- [How it works — the 5-step journey](https://sovitgarg1.github.io/sash_ai_forge/#journey): Idea validation → product build → company setup → investor intros → ongoing partner
-- [The complete package](https://sovitgarg1.github.io/sash_ai_forge/#package): Product + company + brand + network, under one roof
-- [How we show up](https://sovitgarg1.github.io/sash_ai_forge/#partnership): Co-founder mindset, predictable budget, skin in the game
-- [Honest comparison vs alternatives](https://sovitgarg1.github.io/sash_ai_forge/#comparison): tech co-founder, agency, no-code, Sash.Ai Forge
-- [45-day plan](https://sovitgarg1.github.io/sash_ai_forge/#plan): Week-by-week cadence
+- [How it works — the 5-step journey](https://sovitgarg.github.io/sash_ai_forge/#journey): Idea validation → product build → company setup → investor intros → ongoing partner
+- [The complete package](https://sovitgarg.github.io/sash_ai_forge/#package): Product + company + brand + network, under one roof
+- [How we show up](https://sovitgarg.github.io/sash_ai_forge/#partnership): Co-founder mindset, predictable budget, skin in the game
+- [Honest comparison vs alternatives](https://sovitgarg.github.io/sash_ai_forge/#comparison): tech co-founder, agency, no-code, Sash.Ai Forge
+- [45-day plan](https://sovitgarg.github.io/sash_ai_forge/#plan): Week-by-week cadence
 
 ## Who it's for
 - Non-technical founders (first-time or repeat) launching AI-native startups
