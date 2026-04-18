@@ -1,6 +1,6 @@
-# Sash.Ai Forge. Landing Site
+# Sash AI Forge. Landing Site
 
-Static landing page for Sash.Ai Forge. Built to generate leads from non-technical founders who want to launch AI startups fast.
+Static landing page for Sash AI Forge. Built to generate leads from non-technical founders who want to launch AI startups fast.
 
 **Live:** _not deployed yet_
 **Parent brand:** https://www.sashai.tech

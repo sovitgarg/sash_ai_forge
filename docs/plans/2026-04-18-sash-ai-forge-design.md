@@ -1,7 +1,7 @@
-# Sash.Ai Forge — Landing Site Design Document
+# Sash AI Forge — Landing Site Design Document
 
 **Project:** `sash_ai_forge`
-**Author:** Sovit Garg (Fractional CTO, Sash.Ai)
+**Author:** Sovit Garg (Fractional CTO, Sash AI)
 **Date:** 2026-04-18
 **Goal:** Generate qualified leads from non-technical founders who want to launch AI startups fast.
 **Deploy target:** GitHub Pages (static HTML/CSS/JS).
@@ -24,7 +24,7 @@ This document is the complete spec for a single-page static marketing site. It i
 ## 1. Strategic positioning
 
 ### The one-liner
-**Sash.Ai Forge turns an idea into a launched AI startup — product, company, brand, investors — in weeks, not quarters.**
+**Sash AI Forge turns an idea into a launched AI startup — product, company, brand, investors — in weeks, not quarters.**
 
 ### The frame
 Not a Fractional CTO service. Not an agency. **A startup launchpad for non-technical founders who want to move at startup speed.**
@@ -185,7 +185,7 @@ Modular on purpose. Start from idea, or plug us in mid-journey.
 
 **Comparison table (5 columns on desktop, horizontal scroll on mobile):**
 
-| | Hire a tech co-founder | Hire an agency | DIY with no-code | **Sash.Ai Forge** |
+| | Hire a tech co-founder | Hire an agency | DIY with no-code | **Sash AI Forge** |
 |---|---|---|---|---|
 | **Time to launch** | 6–12 months to find, then 6–12 to build | 6–12 months, often slips | 1–3 months to hit no-code ceiling, then stuck | **6 weeks to live product** |
 | **Your equity** | 30–50% gone | 100% kept | 100% kept | **100% kept** |
@@ -336,7 +336,7 @@ Form submits to a form service (Formspree, Getform, or a custom endpoint — con
 
 **Columns:**
 
-- **Sash.Ai Forge** — one-line positioning · logo
+- **Sash AI Forge** — one-line positioning · logo
 - **Navigate** — Journey, Company package, Comparison, 45-day plan, Pricing, FAQ
 - **Company** — About (links to sashai.tech), Case studies, Contact
 - **Legal** — Terms, Privacy
@@ -578,7 +578,7 @@ window.SAF_CONFIG = {
 ### Meta tags (inside `<head>`)
 
 ```html
-<title>Sash.Ai Forge — Launch your AI startup at startup speed</title>
+<title>Sash AI Forge — Launch your AI startup at startup speed</title>
 <meta name="description" content="Non-technical founders launch AI startups in weeks. Product + company + brand + investor intros, led by a senior AI-native CTO. Built for founder runway.">
 <meta name="keywords" content="launch AI startup, AI startup launchpad, non-technical founder AI, idea to MVP in weeks, AI MVP development India, end to end startup launch, Bengaluru AI startup">
 <link rel="canonical" href="https://forge.sashai.tech/">
@@ -586,7 +586,7 @@ window.SAF_CONFIG = {
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="Launch your AI startup at startup speed — Sash.Ai Forge">
+<meta property="og:title" content="Launch your AI startup at startup speed — Sash AI Forge">
 <meta property="og:description" content="Idea to launched AI startup — product, company, brand, investors — in weeks, not quarters.">
 <meta property="og:image" content="https://forge.sashai.tech/assets/images/og/og-image.png">
 <meta property="og:url" content="https://forge.sashai.tech/">
@@ -610,7 +610,7 @@ Include all of these as separate `<script type="application/ld+json">` blocks:
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Sash.Ai Forge",
+  "name": "Sash AI Forge",
   "legalName": "AIxplora Technologies Pvt Ltd",
   "url": "https://forge.sashai.tech",
   "logo": "https://forge.sashai.tech/assets/images/logo.png",
@@ -642,7 +642,7 @@ Include all of these as separate `<script type="application/ld+json">` blocks:
   "@context": "https://schema.org",
   "@type": "Service",
   "serviceType": "AI startup launchpad — end-to-end product build, company setup, brand, and investor access for non-technical founders",
-  "provider": { "@type": "Organization", "name": "Sash.Ai Forge" },
+  "provider": { "@type": "Organization", "name": "Sash AI Forge" },
   "areaServed": ["IN", "US", "AE", "SG", "GB"],
   "audience": {
     "@type": "Audience",
@@ -693,9 +693,9 @@ Standard XML sitemap with `/`, `/case-studies/grambvels`, `/case-studies/kokken`
 ### llms.txt (at `/llms.txt`)
 
 ```
-# Sash.Ai Forge
+# Sash AI Forge
 
-> Sash.Ai Forge turns an idea into a launched AI startup — product, company, brand, and investor intros — in weeks, not quarters. Built for non-technical founders. Senior AI-native CTO included.
+> Sash AI Forge turns an idea into a launched AI startup — product, company, brand, and investor intros — in weeks, not quarters. Built for non-technical founders. Senior AI-native CTO included.
 
 ## What we do
 - [How it works — the 5-step journey](https://forge.sashai.tech/#journey): Idea validation → product build → company setup → investor intros → ongoing partner
@@ -792,7 +792,7 @@ Every lead source tagged via UTM parameters preserved in the form submission.
 git init
 git branch -m main
 git add .
-git commit -m "Initial commit — Sash.Ai Forge landing page"
+git commit -m "Initial commit — Sash AI Forge landing page"
 
 # Create GitHub repo (requires gh CLI authenticated)
 gh repo create sash_ai_forge --public --source=. --remote=origin --push
@@ -969,9 +969,9 @@ These are confirmed. Do not re-ask; build to these.
 
 - **All CTAs across the page:** "Book a free idea review" → "Message us on WhatsApp" (primary) and "Email us" (secondary). The hero, journey "Start here" links, sticky bar, and pricing "Get a quote" all route to WhatsApp or email — whichever is primary in their context. Consistency matters.
 
-- **WhatsApp pre-filled message:** use the WhatsApp pre-fill URL format to seed a starter message, e.g., `https://wa.me/918951280606?text=Hi%20Sash.Ai%20Forge%20—%20I%27d%20like%20to%20book%20a%20free%20idea%20review.` Make the pre-fill contextual to where the click came from (hero, pricing, journey step, etc.) by including a short suffix like `%20Came%20from%3A%20Pricing`. This helps the Sash team see lead source.
+- **WhatsApp pre-filled message:** use the WhatsApp pre-fill URL format to seed a starter message, e.g., `https://wa.me/918951280606?text=Hi%20Sash%20AI%20Forge%20—%20I%27d%20like%20to%20book%20a%20free%20idea%20review.` Make the pre-fill contextual to where the click came from (hero, pricing, journey step, etc.) by including a short suffix like `%20Came%20from%3A%20Pricing`. This helps the Sash team see lead source.
 
-- **Email CTA:** use `mailto:info@sashai.tech?subject=Free%20idea%20review%20—%20Sash.Ai%20Forge&body=Hi%2C%20I%27d%20like%20to%20book%20a%20free%20idea%20review.%20Here%27s%20my%20idea%3A%20...`
+- **Email CTA:** use `mailto:info@sashai.tech?subject=Free%20idea%20review%20—%20Sash%20AI%20Forge&body=Hi%2C%20I%27d%20like%20to%20book%20a%20free%20idea%20review.%20Here%27s%20my%20idea%3A%20...`
 
 - **Schema updates:** `ContactPoint` in the Organization JSON-LD references phone + email. Remove any mentions of scheduler or booking URLs from schema.
 

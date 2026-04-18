@@ -1,6 +1,6 @@
 # CLAUDE.md — sash_ai_forge
 
-Static landing site for Sash.Ai Forge. Goal: generate leads from non-technical founders launching AI startups.
+Static landing site for Sash AI Forge. Goal: generate leads from non-technical founders launching AI startups.
 
 ## Source of truth
 - **Design doc:** `docs/plans/2026-04-18-sash-ai-forge-design.md`

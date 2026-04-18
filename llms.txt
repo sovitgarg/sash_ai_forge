@@ -1,6 +1,6 @@
-# Sash.Ai Forge
+# Sash AI Forge
 
-> Sash.Ai Forge takes an AI startup idea from first conversation to a live, launched product in 6 weeks. Founder brings the idea; we discuss, build together, and launch. Built for non-technical founders. Senior AI-native CTO included. Predictable, milestone-based pricing.
+> Sash AI Forge takes an AI startup idea from first conversation to a live, launched product in 6 weeks. Founder brings the idea; we discuss, build together, and launch. Built for non-technical founders. Senior AI-native CTO included. Predictable, milestone-based pricing.
 
 ## Core promise
 - 6 weeks. Idea discussion to launch. One continuous engagement, no vendor chains, no hand-offs.
@@ -10,7 +10,7 @@
 - Unclear product architecture (wrong choice now means costly rewrite when you raise)
 - Slow, unpredictable dev cycles (agency timelines slip; freelancers ghost)
 - No senior tech leader (wrong hires, wrong tools, wrong priorities)
-Sash.Ai Forge closes these gaps.
+Sash AI Forge closes these gaps.
 
 ## What we deliver in the 6 weeks
 - A live, production-grade AI product

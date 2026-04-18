@@ -1,4 +1,4 @@
-// Sash.Ai Forge — vanilla JS bootstrap
+// Sash AI Forge — vanilla JS bootstrap
 // Handles: mobile nav, smooth-scroll, sticky CTA, reveal-on-scroll, form helpers.
 
 (function () {
@@ -116,12 +116,12 @@
   function applyConfigLinks() {
     const wa = cfg.whatsappUrl || 'https://wa.me/918951280606';
     const email = cfg.contactEmail || 'info@sashai.tech';
-    const subject = encodeURIComponent(cfg.emailSubject || 'Free AI Audit — Sash.Ai Forge');
+    const subject = encodeURIComponent(cfg.emailSubject || 'Free AI Audit — Sash AI Forge');
     const body = encodeURIComponent(cfg.emailBody || "Hi, I'd like to book a free AI Audit.");
 
     document.querySelectorAll('[data-wa]').forEach((a) => {
       const suffix = a.dataset.wa ? ` Came from: ${a.dataset.wa}` : '';
-      const text = encodeURIComponent("Hi Sash.Ai Forge — I'd like to book a free AI Audit." + suffix);
+      const text = encodeURIComponent("Hi Sash AI Forge — I'd like to book a free AI Audit." + suffix);
       a.href = `${wa}?text=${text}`;
     });
     document.querySelectorAll('[data-email]').forEach((a) => {
