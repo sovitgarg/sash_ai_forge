@@ -132,8 +132,8 @@
 
       <nav class="site-nav" role="navigation" aria-label="Primary">
         <ul class="site-nav__list">
+          <li><a class="site-nav__link" href="#reality">Why us</a></li>
           <li><a class="site-nav__link" href="#journey">How it works</a></li>
-          <li><a class="site-nav__link" href="#partnership">How we work</a></li>
           <li><a class="site-nav__link" href="#comparison">Comparison</a></li>
           <li><a class="site-nav__link" href="#pricing">Pricing</a></li>
           <li><a class="site-nav__link" href="#extras">Also available</a></li>
@@ -150,6 +150,7 @@
 
     <div id="mobile-nav" class="mobile-nav" data-nav-menu data-open="false" role="navigation" aria-label="Mobile">
       <ul class="mobile-nav__list">
+        <li><a class="mobile-nav__link" href="#reality">Why us</a></li>
         <li><a class="mobile-nav__link" href="#journey">How it works</a></li>
         <li><a class="mobile-nav__link" href="#partnership">How we work</a></li>
         <li><a class="mobile-nav__link" href="#comparison">Comparison</a></li>
@@ -179,6 +180,53 @@
             <a class="btn btn--secondary btn--lg hero__cta-secondary" href="#journey">See how it works</a>
           </div>
         </div>
+      </div>
+    </section>
+
+    <!-- §1.5 THE REALITY -->
+    <section id="reality" class="section">
+      <div class="container">
+        <header class="section-header reveal">
+          <p class="eyebrow">THE REALITY</p>
+          <h2>Most founders want to build AI products. Few actually ship them.</h2>
+          <p class="lead">You have the idea, the funding, the ambition. But building AI products is a different game. The regular playbook doesn't work.</p>
+        </header>
+
+        <ul class="reality-grid reveal">
+          <li class="reality-tile card">
+            <span class="icon-tile" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/><path d="M8 11h6"/></svg>
+            </span>
+            <h3 class="reality-tile__title">Can't find AI engineers</h3>
+            <p>Real AI engineers are rare, expensive, and already employed. Months of searching, no guarantees.</p>
+          </li>
+
+          <li class="reality-tile card">
+            <span class="icon-tile" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 1 1 3 3L7 19l-4 1 1-4L16.5 3.5z"/></svg>
+            </span>
+            <h3 class="reality-tile__title">Unclear product architecture</h3>
+            <p>Which models? Which stack? How will it scale? One wrong choice now means a costly rewrite when you raise.</p>
+          </li>
+
+          <li class="reality-tile card">
+            <span class="icon-tile" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+            </span>
+            <h3 class="reality-tile__title">Slow, unpredictable dev cycles</h3>
+            <p>Agency timelines slip. Freelancers ghost. No one owns the outcome. Meanwhile your runway is ticking.</p>
+          </li>
+
+          <li class="reality-tile card">
+            <span class="icon-tile" aria-hidden="true">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="M12 18v4"/><path d="m4.93 4.93 2.83 2.83"/><path d="m16.24 16.24 2.83 2.83"/><path d="M2 12h4"/><path d="M18 12h4"/><path d="m4.93 19.07 2.83-2.83"/><path d="m16.24 7.76 2.83-2.83"/></svg>
+            </span>
+            <h3 class="reality-tile__title">No senior tech leader</h3>
+            <p>Without a CTO, you're guessing. Wrong hires, wrong tools, wrong priorities. Investors notice.</p>
+          </li>
+        </ul>
+
+        <p class="reality-footnote reveal"><strong>Sash.Ai Forge closes these gaps.</strong> One senior team, one predictable engagement, one live product in 6 weeks.</p>
       </div>
     </section>
 
@@ -398,33 +446,51 @@
         <header class="section-header reveal">
           <p class="eyebrow">PRICING</p>
           <h2>Transparent ranges. No surprises.</h2>
-          <p class="lead">Every engagement is quoted after the free idea review. Milestone&#8209;based, fixed&#8209;price per deliverable, so your budget stays predictable from week one.</p>
+          <p class="lead">Every engagement is quoted after the free AI Audit. Milestone&#8209;based, fixed&#8209;price per deliverable, so your budget stays predictable from week one.</p>
         </header>
 
         <div class="grid grid--3 reveal">
           <article class="card pricing-card">
             <h3 class="pricing-card__title">Idea &rarr; MVP launch</h3>
             <p class="pricing-card__price">Let's talk.</p>
-            <p class="pricing-card__desc">For founders starting from an idea. Full 6&#8209;week launch: product + brand + first intros.</p>
+            <p class="pricing-card__desc">For founders starting from an idea. A live, production&#8209;grade AI product in 6 weeks.</p>
+            <ul class="pricing-card__bullets">
+              <li>Product architecture design</li>
+              <li>LLM &amp; agentic pipeline setup</li>
+              <li>Backend + frontend build</li>
+              <li>Brand, logo, domain, site</li>
+            </ul>
             <a class="btn btn--secondary btn--block" href="#contact">Get a quote</a>
           </article>
 
           <article class="card pricing-card">
             <h3 class="pricing-card__title">Product &rarr; Scale</h3>
             <p class="pricing-card__price">Let's talk.</p>
-            <p class="pricing-card__desc">For founders with an MVP who need to scale it. Ongoing engineering + growth partnership.</p>
+            <p class="pricing-card__desc">For founders with an MVP who need to scale it for real users, real load, real investors.</p>
+            <ul class="pricing-card__bullets">
+              <li>Scalable product architecture</li>
+              <li>AI model integration &amp; fine&#8209;tuning</li>
+              <li>Infrastructure &amp; deployment</li>
+              <li>Data pipelines &amp; optimisation</li>
+            </ul>
             <a class="btn btn--secondary btn--block" href="#contact">Get a quote</a>
           </article>
 
           <article class="card pricing-card">
-            <h3 class="pricing-card__title">Plug‑in CTO</h3>
+            <h3 class="pricing-card__title">Plug&#8209;in CTO</h3>
             <p class="pricing-card__price">Let's talk.</p>
-            <p class="pricing-card__desc">For founders who have a team but need senior AI leadership part‑time.</p>
+            <p class="pricing-card__desc">For founders with a team who need senior AI leadership part&#8209;time.</p>
+            <ul class="pricing-card__bullets">
+              <li>Product &amp; engineering roadmap</li>
+              <li>Architecture &amp; code reviews</li>
+              <li>Technical hiring guidance</li>
+              <li>Investor &amp; customer meetings</li>
+            </ul>
             <a class="btn btn--secondary btn--block" href="#contact">Get a quote</a>
           </article>
         </div>
 
-        <p class="pricing-footnote reveal">Bootstrapped? We discuss cash + equity blends for the right founders. Ask us in the idea review.</p>
+        <p class="pricing-footnote reveal">Bootstrapped? We discuss cash + equity blends for the right founders. Ask us in the AI Audit.</p>
       </div>
     </section>
 
@@ -507,7 +573,7 @@
           </li>
         </ul>
 
-        <p class="extras-footnote reveal">These are priced separately from the 6‑week build. Most founders bundle one or two; some take them all. Ask in the idea review. We'll tell you what you actually need.</p>
+        <p class="extras-footnote reveal">These are priced separately from the 6‑week build. Most founders bundle one or two; some take them all. Ask in the AI Audit. We'll tell you what you actually need.</p>
       </div>
     </section>
 
@@ -516,7 +582,7 @@
       <div class="container">
         <div class="final-cta reveal">
           <header class="section-header final-cta__header">
-            <h2>Book your free idea review.</h2>
+            <h2>Book your free AI Audit.</h2>
             <p class="lead">30 minutes. No deck required. We'll look at your idea, sketch the AI architecture, and tell you honestly whether we're the right partner. No strings.</p>
           </header>
 

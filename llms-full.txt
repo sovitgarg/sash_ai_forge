@@ -19,6 +19,17 @@ We are not a Fractional CTO service. We are not an agency. We are a startup laun
 
 Come with an idea. We discuss it, build it together, and put it in front of real users. Senior CTO-led. Milestone-based. Built for founders who don't have months to wait.
 
+## The Reality (problem agitation)
+
+Most founders want to build AI products. Few actually ship them. You have the idea, the funding, the ambition. But building AI products is a different game. The regular playbook doesn't work.
+
+- Can't find AI engineers: real AI engineers are rare, expensive, and already employed. Months of searching, no guarantees.
+- Unclear product architecture: which models? Which stack? How will it scale? One wrong choice now means a costly rewrite when you raise.
+- Slow, unpredictable dev cycles: agency timelines slip. Freelancers ghost. No one owns the outcome. Meanwhile your runway is ticking.
+- No senior tech leader: without a CTO, you're guessing. Wrong hires, wrong tools, wrong priorities. Investors notice.
+
+Sash.Ai Forge closes these gaps. One senior team, one predictable engagement, one live product in 6 weeks.
+
 ## The 4-step journey (idea to launch)
 
 You bring the idea. We discuss it, sharpen it, build it with you, and put it in front of real users. One continuous engagement. No hand-offs, no vendor chains. You can plug us in mid-way if you already have an MVP.
@@ -60,13 +71,13 @@ The real competition isn't each other. It's the calendar. Every month you spend 
 
 Transparent ranges. No surprises.
 
-Every engagement is quoted after the free idea review. Milestone-based, fixed-price per deliverable, so your budget stays predictable from week one.
+Every engagement is quoted after the free AI Audit. Milestone-based, fixed-price per deliverable, so your budget stays predictable from week one.
 
-- Idea to MVP launch. Let's talk. Full 6-week launch: product and brand.
-- Product to Scale. Let's talk. Ongoing engineering and growth partnership for founders with an MVP.
-- Plug-in CTO. Let's talk. Senior AI leadership for founders who already have a team.
+- Idea to MVP launch. Let's talk. A live, production-grade AI product in 6 weeks. Product architecture design; LLM and agentic pipeline setup; backend and frontend build; brand, logo, domain, site.
+- Product to Scale. Let's talk. For founders with an MVP who need to scale it for real users, real load, real investors. Scalable product architecture; AI model integration and fine-tuning; infrastructure and deployment; data pipelines and optimisation.
+- Plug-in CTO. Let's talk. Senior AI leadership part-time, for founders with a team. Product and engineering roadmap; architecture and code reviews; technical hiring guidance; investor and customer meetings.
 
-Bootstrapped? We discuss cash and equity blends for the right founders. Ask us in the idea review.
+Bootstrapped? We discuss cash and equity blends for the right founders. Ask us in the AI Audit.
 
 ## Additional services (on request, priced separately)
 

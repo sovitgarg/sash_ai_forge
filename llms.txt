@@ -5,6 +5,13 @@
 ## Core promise
 - 6 weeks. Idea discussion to launch. One continuous engagement, no vendor chains, no hand-offs.
 
+## The reality (why most founders don't ship AI products)
+- Can't find AI engineers (rare, expensive, already employed)
+- Unclear product architecture (wrong choice now means costly rewrite when you raise)
+- Slow, unpredictable dev cycles (agency timelines slip; freelancers ghost)
+- No senior tech leader (wrong hires, wrong tools, wrong priorities)
+Sash.Ai Forge closes these gaps.
+
 ## What we deliver in the 6 weeks
 - A live, production-grade AI product
 - A brand (logo, identity, site, socials)

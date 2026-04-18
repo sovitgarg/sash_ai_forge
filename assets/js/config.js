@@ -6,8 +6,8 @@ window.SAF_CONFIG = {
   contactPhone: "+91-89512-80606",
   whatsappNumber: "918951280606",
   whatsappUrl: "https://wa.me/918951280606",
-  emailSubject: "Free idea review — Sash.Ai Forge",
-  emailBody: "Hi, I'd like to book a free idea review. Here's my idea: ...",
+  emailSubject: "Free AI Audit — Sash.Ai Forge",
+  emailBody: "Hi, I'd like to book a free AI Audit. Here's my idea: ...",
 
   // Scheduler — disabled in v1. Set schedulerUrl to a cal.com/calendly URL to enable.
   schedulerEnabled: false,
