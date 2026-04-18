@@ -51,7 +51,7 @@ Most agencies wait for a brief and ship what's on it. We sharpen the idea with y
 | Time to launch | 6–12 mo, often slips | 1–3 mo to no-code ceiling | 6 weeks to live product |
 | Your equity | 100% kept | 100% kept | 100% kept |
 | AI depth | Rarely AI-native | Limited to no-code | AI-native by design |
-| Risk if they leave | Moderate. Vendor lock-in | Low. But product is fragile | Low. IP is yours |
+| Risk if they leave | Moderate. Vendor lock-in | Low. But product is fragile | Low. 100% of code is yours |
 | Budget model | Monthly retainer | Tool subscriptions | Milestone-based, predictable |
 
 The real competition isn't each other. It's the calendar. Every month you spend deciding is a month a competitor ships.
