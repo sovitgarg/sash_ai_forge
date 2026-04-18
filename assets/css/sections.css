@@ -1,1 +1,56 @@
-/* Section-specific styles are filled in as each section is built. */
+/* ============================================================
+ * Shared section-level primitives. Per-section styles below.
+ * ============================================================ */
+
+.grid {
+  display: grid;
+  gap: var(--space-6);
+}
+
+@media (min-width: 720px) {
+  .grid--2 { grid-template-columns: repeat(2, 1fr); }
+  .grid--3 { grid-template-columns: repeat(3, 1fr); }
+  .grid--4 { grid-template-columns: repeat(4, 1fr); }
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+}
+
+.stack > * + * {
+  margin-top: var(--space-4);
+}
+.stack-lg > * + * {
+  margin-top: var(--space-6);
+}
+
+/* Lead paragraph below H2 */
+.lead {
+  font-size: 1.0625rem;
+  color: var(--text-secondary);
+  max-width: 62ch;
+}
+
+/* Check / cross markers for comparison */
+.mark-yes { color: var(--success); font-weight: 600; }
+.mark-no  { color: #9CA3AF; }
+
+/* Icon tile */
+.icon-tile {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius);
+  background: var(--accent-soft);
+  color: var(--accent-primary);
+}
+.icon-tile svg { width: 22px; height: 22px; stroke-width: 1.75; }
+
+.icon-tile--warm {
+  background: var(--accent-warm-soft);
+  color: #B45309;
+}
