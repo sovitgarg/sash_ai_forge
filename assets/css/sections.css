@@ -932,3 +932,49 @@
   width: 18px;
   height: 18px;
 }
+
+/* ============================================================
+ * §9 Pricing
+ * ============================================================ */
+.pricing-card {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.pricing-card__title {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  letter-spacing: -0.01em;
+}
+
+.pricing-card__price {
+  margin: 0;
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--accent-primary);
+}
+
+.pricing-card__desc {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: var(--fs-body-sm);
+  line-height: 1.55;
+  flex: 1 1 auto;
+}
+
+.pricing-card .btn {
+  margin-top: var(--space-3);
+}
+
+.pricing-footnote {
+  margin-top: var(--space-8);
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: var(--fs-body-sm);
+  max-width: 56ch;
+  margin-left: auto;
+  margin-right: auto;
+}
